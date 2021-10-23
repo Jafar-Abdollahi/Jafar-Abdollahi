@@ -242,13 +242,17 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-### Hi there! I'm [Reza][website] 👋
+### Hi there! I'm [Jafar Abdollahi][website] 👋
 
 [![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
 
-- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
+- 🔭 I’m  working on Machine learning and Deep Learning
+- 🔭 I’m  working on Machine Vision and image processing
+- 🔭 I’m  working on Signal Processing and Time series
+- 🔭 I’m  working on medical science and Biomedical image
+- 
 - 🌱 I’m currently learning Advanced Signal Processing!
 - 👥 I’m looking to collaborate with other researchers
 - 🥅 2021 Goals: Learn more! Publish More Codes!⚡
@@ -256,7 +260,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ### Connect with me:
 
-[<img align="left" alt="imreza.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jafarabdollahi.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -313,11 +317,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [VRR]: https://github.com/magnumical/VR_Environment_Village
 [GCNN]: https://github.com/magnumical/GCN_for_EEG
 
-[website]: https://imreza.ir
-[twitter]: https://twitter.com/reza__amini
-[youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ?view_as=subscriber
-[instagram]: https://instagram.com/aboutrza
-[linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
+[website]: https://jafarabdollahi.ir
+[twitter]: https://www.researchgate.net/profile/Jafar-Abdollahi
+[youtube]: https://youtube.com/channel/UC2uysnskncCkYhbGcfgtPSA
+[instagram]: https://instagram.com/ja.abdollahi77
+[linkedin]: https://www.linkedin.com/in/jafar-abdollahi-7647971b3/
 
 
 
