@@ -47,26 +47,6 @@ Here are some ideas to get you started:
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
 
 
 
@@ -103,16 +83,13 @@ Here are some ideas to get you started:
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
+There are many  
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,13 +100,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -139,7 +110,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -269,6 +239,85 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
+
+
+
+### Hi there! I'm [Reza][website] 👋
+
+[![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
+[![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
+
+
+- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
+- 🌱 I’m currently learning Advanced Signal Processing!
+- 👥 I’m looking to collaborate with other researchers
+- 🥅 2021 Goals: Learn more! Publish More Codes!⚡
+- 👨🏻‍💻 I'm open to hear your comment on my codes! Open an issue and ask your questions!
+
+### Connect with me:
+
+[<img align="left" alt="imreza.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+
+
+### What I am doing:
+1. Building Brain-Computer Interfaces🛠
+2. Machine Learning for Signal Processing💻
+3. Preprocessing Biological Signals🎛
+4. Graph Neural Network for DSP📟
+<br>
+🎯Along with these interests, I'd like to create affordable rehabilitation platforms! I believe that people who need such a services may not have much income (because they may not work), so as researchers, we should consider this problem!
+<br>
+
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
+<img align="left" alt="MATLAB" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" />
+<img align="left" alt="Arduino" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_arduino_icon_130743.png" />
+<img align="left" alt="Ltex" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" />
+<img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
+<img align="left" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
+
+
+<img align="center" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg" />
+<br>
+
+### Thechnologies that I Love:
+1. Heroku
+2. Google Cloud Platform
+3. OpenBCI
+4. Emotive
+5. Raspberry pi
+
+
+
+
+
+[VRR]: https://github.com/magnumical/VR_Environment_Village
+[GCNN]: https://github.com/magnumical/GCN_for_EEG
+
+[website]: https://imreza.ir
+[twitter]: https://twitter.com/reza__amini
+[youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ?view_as=subscriber
+[instagram]: https://instagram.com/aboutrza
+[linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
 
 
 
