@@ -5,14 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ...
 -->
 
 
@@ -34,13 +31,13 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=jafarabdollahi.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jafarabdollahi.ir)
 
-
-
-- 🔭 I’m  working on Machine learning and Deep Learning
-- 👥 I’m  working on Machine Vision and image processing
+- 🔭 I’m currently working on Machine learning and Deep Learning
+- 🌱 I’m currently learning Machine Vision
+- 👯 I’m looking to collaborate on Artificiall intelligence
+- 👥 I’m  working on  and image processing
 - 🔭 I’m  working on Signal Processing and Time series
 - 👨 I’m  working on medical science and Biomedical image
-- 
+- 📫 How to reach me: ja.abdollahi77@gmail.com
 - 🌱 I’m currently learning Advanced Signal Processing!
 - 👥 I’m looking to collaborate with other researchers
 - 🥅 2021 Goals: Learn more! Publish More Codes!⚡
@@ -57,13 +54,16 @@ Here are some ideas to get you started:
 <br>
 
 
+
+
+
 ### What I am doing:
-1. Building Brain-Computer Interfaces🛠
-2. Machine Learning for Signal Processing💻
-3. Preprocessing Biological Signals🎛
-4. Graph Neural Network for DSP📟
+1. Use machine learning to diagnose chronic diseases 🛠
+2. Use deep learning and machine vision to diagnose lung disease💻
+3. Use time series algorithms to predict the stock market🎛
+4. Big data and work on biomedical science and biomedical image 📟
 <br>
-🎯Along with these interests, I'd like to create affordable rehabilitation platforms! I believe that people who need such a services may not have much income (because they may not work), so as researchers, we should consider this problem!
+🎯 In the future, I plan to enter the Internet of Things and smart health. I believe that by reducing the birth rate and increasing the elderly, we will face problems in the future. Therefore, investing in smart health, IoT and especially artificial intelligence is my priority.
 <br>
 
 
@@ -92,11 +92,16 @@ Here are some ideas to get you started:
 <br>
 
 ### Thechnologies that I Love:
-1. Heroku
-2. Google Cloud Platform
-3. OpenBCI
-4. Emotive
-5. Raspberry pi
+1. Machine Learning
+2. Deep Learning
+3. Machine Vision
+4. Signal Processing
+5. Image Processing
+6. Time Series Forecasting
+7. Data Science
+8. Medical Science and Biomedical Image
+9. Internet of Thing
+
 
 
 
