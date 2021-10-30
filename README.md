@@ -85,10 +85,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Ltex" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" />
 <img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
-
-
-
-<img align="center" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg" />
 <br>
 
 ### Thechnologies that I Love:
