@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
                                                        
                                                       
-                                
+                                                             
                        
 <div id="top"></div>             
 <!--
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+              
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" />
 <img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
 <br>
-
+        
 ### Thechnologies that I Love:
 1. Machine Learning
 2. Deep Learning
