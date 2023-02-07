@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
 
-
-
+                 
 ### Hi there! I'm [Jafar Abdollahi][website] 👋
 
 [![Website](https://img.shields.io/website?label=jafarabdollahi.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jafarabdollahi.ir)
